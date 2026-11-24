@@ -12,4 +12,24 @@ CONCLUSION:Heap sorting is a simple and efficient sorting method that uses a hea
 
 PRACTICAL 4: Summary: Iteration uses loops to repeat tasks, while recursion uses a function calling itself with a base condition.
 
-Conclusion: Both methods solve problems effectively. Iteration usually uses less memory, while recursion can make complex problems easier to understand.
+Conclusion: Both methods solve problems effectively. Iteration usually uses less memory, while recursion can make complex problems easier to understand.      
+
+PRACTICAL 6:Summary of Practical
+In this practical, Matrix Chain Multiplication was implemented using Dynamic Programming. The program calculates the minimum number of scalar multiplications required to multiply a chain of matrices by considering different possible parenthesizations. A DP table is used to store the minimum multiplication cost for each subproblem, helping to reduce redundant calculations and improve efficiency.
+Conclusion
+Thus, the Matrix Chain Multiplication problem was successfully solved using Dynamic Programming. The practical demonstrates how dynamic programming optimizes matrix multiplication order by finding the minimum computational cost without changing the final result.
+
+PRACTICAL 7:Summary of Practical
+In this practical, the Coin Change Problem was implemented using Dynamic Programming. The program takes coin denominations and a target amount as input, then calculates the minimum number of coins required to make that amount. A DP array is used to store the minimum number of coins for each amount, avoiding repeated calculations.
+Conclusion
+Thus, the Coin Change Problem was successfully solved using Dynamic Programming. The practical demonstrates how dynamic programming helps find the minimum number of coins required for a given amount efficiently and determines when the amount cannot be formed using the given coin denominations.
+
+PRACTICAL 8:Summary of Practical
+In this practical, Breadth-First Search (BFS) and Depth-First Search (DFS) were implemented using Python to traverse a graph. DFS explores nodes deeply using a stack, while BFS visits nodes level by level using a queue. Both algorithms use a visited set to avoid revisiting nodes.
+Conclusion
+Thus, BFS and DFS graph traversal algorithms were successfully implemented. This practical helps understand graph traversal techniques and how stacks and queues are used to visit and explore graph nodes efficiently.
+
+PRACTICAL 9:Summary of Practical
+In this practical, Prim’s Algorithm was implemented using Python to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm selects the minimum-weight edge connecting a visited vertex to an unvisited vertex until all vertices are connected.
+Conclusion
+Thus, Prim’s Algorithm was successfully implemented to find the Minimum Spanning Tree of a graph. The practical demonstrates how to connect all vertices with the minimum total edge weight while avoiding unnecessary edges.
