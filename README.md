@@ -12,7 +12,13 @@ CONCLUSION:Heap sorting is a simple and efficient sorting method that uses a hea
 
 PRACTICAL 4: Summary: Iteration uses loops to repeat tasks, while recursion uses a function calling itself with a base condition.
 
-Conclusion: Both methods solve problems effectively. Iteration usually uses less memory, while recursion can make complex problems easier to understand.      
+Conclusion: Both methods solve problems effectively. Iteration usually uses less memory, while recursion can make complex problems easier to understand.
+
+Summary OF PRACTICAL 5:
+The program implements the 0/1 Knapsack Problem using Dynamic Programming in C++. It accepts the number of items, their weights, values, and the maximum capacity of the knapsack. It calculates the maximum profit that can be obtained without exceeding the given capacity. The program also tracks and displays the selected items and their weights using a choice table.
+
+Conclusion
+Thus, the 0/1 Knapsack Problem is successfully implemented using Dynamic Programming. The program finds the maximum profit within the given capacity and identifies the items selected, ensuring that each item is included at most once.
 
 PRACTICAL 6:Summary of Practical
 In this practical, Matrix Chain Multiplication was implemented using Dynamic Programming. The program calculates the minimum number of scalar multiplications required to multiply a chain of matrices by considering different possible parenthesizations. A DP table is used to store the minimum multiplication cost for each subproblem, helping to reduce redundant calculations and improve efficiency.
@@ -32,4 +38,11 @@ Thus, BFS and DFS graph traversal algorithms were successfully implemented. This
 PRACTICAL 9:Summary of Practical
 In this practical, Prim’s Algorithm was implemented using Python to find the Minimum Spanning Tree (MST) of a weighted graph. The algorithm selects the minimum-weight edge connecting a visited vertex to an unvisited vertex until all vertices are connected.
 Conclusion
-Thus, Prim’s Algorithm was successfully implemented to find the Minimum Spanning Tree of a graph. The practical demonstrates how to connect all vertices with the minimum total edge weight while avoiding unnecessary edges.
+Thus, Prim’s Algorithm was successfully implemented to find the Minimum Spanning Tree of a graph. The practical demonstrates how to connect all vertices with the minimum total edge weight while avoiding unnecessary 
+
+PRACTICAL 10 SUMMARY OF PRACTICAL
+The program implements Kruskal’s Algorithm to find the Minimum Spanning Tree (MST) of a weighted graph. It sorts all edges in ascending order of weight and selects the edges with the smallest weights without forming cycles. The program uses the Disjoint Set (Union-Find) technique with path compression and rank to efficiently manage connected components. It displays the edges selected for the Minimum Spanning Tree and the total weight.
+
+Conclusion
+
+Thus, Kruskal’s Algorithm is successfully implemented to find the Minimum Spanning Tree of a weighted graph. It selects the minimum-weight edges without forming cycles and calculates the total weight of the MST.
